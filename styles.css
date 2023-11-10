@@ -1,1 +1,60 @@
 /* Write your CSS here! */
+.image{
+    margin-left: 20px;
+    margin-top  : 36px;
+    /* padding: 60; */
+}
+
+body{
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading{
+    font-size: 28px;
+    color: red;
+}
+
+#testP{
+    font-family: monospace
+}
+
+.funParagraph{
+color: green;  
+color: yellow;  
+font-size: 16px;
+font-family: monospace;
+}
+
+#html{
+    background-color: black;
+}
+
+.num{
+    color: yellow;
+}
+
+#feet{
+    margin-bottom: 75px;
+    color: white;
+    font-size: 14px;
+}
+
+.halo{
+    color: yellow;
+    /* text-align: right; */
+    margin-right: 25px;
+    font-size: 15px;
+}
+
+#haloArt{
+    margin-top: 100px;
+    color: yellow;
+    text-align: right ;
+    /* margin-left: 290px; */
+    margin-right: 10px;
+    font-size: 15px;
+}
+#copy{
+    color: white;
+}
